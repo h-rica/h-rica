@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rc-0104/rc-0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
