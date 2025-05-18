@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey 👋, I'm Harivonjy Rica</h1>
-- 👨‍💻 All of my projects are available at [harivonjyrica.io](harivonjyrica.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 👨‍💻 All of my projects are available at [harivonjyrica.io](https://www.harivonjyrica.io)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
