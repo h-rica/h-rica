@@ -1,3 +1,5 @@
+<h1 align="center">Hey 👋, I'm Harivonjy Rica</h1>
+
 <!--
 **rc-0104/rc-0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Harivonjy Rica</h1>
+<!--
+
 - 👨‍💻 All of my projects are available at [harivonjyrica.io](https://www.harivonjyrica.io)
 
-<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
