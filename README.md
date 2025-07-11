@@ -8,13 +8,12 @@ a<h1 align="center">Hey 👋, I'm Harivonjy Rica</h1>
 
 ###
 
-<h3 align="left">Social media</h3>
-
 ###
 
-<div align="left">
+<div align="left" style="display: flex; gap: '1rem' ">
+  <h3 align="left">Social media</h3>
   <a href="https://www.linkedin.com/in/mampionona-tinasoa-rica-harivonjy-b27b36285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
   <!--
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
