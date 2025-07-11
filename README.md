@@ -22,6 +22,7 @@
 
 ###
 
+<!--
 <h3 align="left">Language and tools</h3>
 
 ###
@@ -53,5 +54,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
 </div>
+
+-->
 
 ###
