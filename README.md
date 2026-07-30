@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Harivonjy Rica</h1>
 
 ###
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=h-rica&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-rica&theme=github&animation=sequence)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-rica&theme=github&animation=sequence&exclude=html%2Ccss)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-rica&theme=github&animation=sequence&exclude=html%2Ccss)
