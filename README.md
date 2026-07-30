@@ -2,6 +2,13 @@
 
 ###
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-rica&theme=github&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-rica&theme=github&animation=sequence&exclude=html%2Ccss)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-rica&theme=github&animation=sequence&exclude=html%2Ccss)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-rica&theme=github&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-rica&theme=github&animation=sequence&utcOffset=0)
+
+
 ###
 
 ###
