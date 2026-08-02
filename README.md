@@ -6,10 +6,10 @@ When I'm not building: reading, mostly about things outside my own stack.
 
 ### What I actually reach for
 
-**Day to day:** TypeScript/JavaScript — SvelteKit / Svelte 5 (my default), React, Astro, NestJS, Fastify, PostgreSQL
-**Platform depth:** Zoho — CRM, Books, Flow, Catalyst, DataPrep, Zia Agents, Deluge, Extensions
-**AI-native workflow:** Claude Code, Codex, LangChain/LangGraph — not a buzzword, an actual daily productivity lever
-**Learning in the open:** Rust — Axum, Tauri v2
+- **Day to day** TypeScript/JavaScript : SvelteKit / Svelte 5 (my default), React, Astro, NestJS, Fastify, PostgreSQL
+- **Platform depth** Zoho : CRM, Books, Flow, Catalyst, DataPrep, Zia Agents, Deluge, Extensions
+- **AI-native workflow** Claude Code, Codex, LangChain/LangGraph : not a buzzword, an actual daily productivity lever
+- **Learning in the open** Browser extension - Rust : Axum, Tauri v2
 
 ### Elsewhere
 
