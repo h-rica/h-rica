@@ -13,4 +13,4 @@ When I'm not building: reading, mostly about things outside my own stack.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mampionona-tinasoa-rica-harivonjy-b27b36285/) · [Twitter/X](https://x.com/your-handle-here)
+[LinkedIn](https://www.linkedin.com/in/mampionona-tinasoa-rica-harivonjy-b27b36285/) · [Twitter/X](https://x.com/RicaHarivonjy)
