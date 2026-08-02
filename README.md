@@ -1,4 +1,4 @@
-<h1 align="left">Harivonjy Rica</h1>
+<h1 align="left">Hi, I'm Harivonjy Rica</h1>
 
 Software engineer based in Madagascar. Zoho consultancy along the way, JavaScript/TypeScript day to day, Rust the stack I'm chasing next.
 
