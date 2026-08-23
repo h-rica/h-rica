@@ -1,6 +1,6 @@
 # Harivonjy Rica
 
-Software engineer and Certified Zoho Consultant based in Madagascar.
+Software developer and Certified Zoho Consultant based in Madagascar.
 
 I build practical software across two connected areas: business systems on Zoho, and cross-platform products built with TypeScript and Rust.
 
