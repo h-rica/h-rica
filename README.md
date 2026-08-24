@@ -3,7 +3,7 @@
 Software developer and Certified Zoho Consultant based in Madagascar.
 
 I work independently with clients, with Zoho at the center of my work alongside software engineering. Through [MiiCaLabs](https://
-github.com/MiiCaLabs), I test ideas and develop projects that can grow into production software.
+github.com/MiiCaLabs) , I test ideas and develop projects that can grow into production software.
 
 ## What I work with
 
